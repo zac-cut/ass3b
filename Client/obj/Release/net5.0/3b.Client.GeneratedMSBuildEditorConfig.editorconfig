@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = 3b.Client
+build_property.ProjectDir = C:\Users\zacar\source\repos\2023_CSE3PAX_May---Industry-Project-3b\3b\Client\
